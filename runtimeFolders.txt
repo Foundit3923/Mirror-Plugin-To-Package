@@ -1,0 +1,3 @@
+Assets/ScriptTemplates
+Assets/Mirror/*
+!Assets/Mirror/Editor
