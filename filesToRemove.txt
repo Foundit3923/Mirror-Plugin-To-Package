@@ -1,0 +1,11 @@
+Mirror.meta
+.codecov.yml
+.mcp.json
+.releaserc.yml
+appveyor.yml
+CONTRIBUTING.md
+funding.json
+FUNDING.yml
+remote_statistics.txt
+SECURITY.md
+setversion.ps1

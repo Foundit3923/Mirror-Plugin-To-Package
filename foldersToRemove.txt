@@ -1,0 +1,4 @@
+.github
+Assets/Mirror/Tests
+Packages
+ProjectSettings
